@@ -1,4 +1,4 @@
-<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=5f5051&height=120&section=header"/>
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=110d0b&height=120&section=header"/>
 <h1 align="center">Hi! I'm Diego Alves</h1>
 <h3 align="center">A passionate backend developer from Brasil</h3>
 
