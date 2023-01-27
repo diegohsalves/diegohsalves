@@ -1,8 +1,3 @@
-<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=110d0b&height=120&section=header"/>
-<h1 align="center">Hi! I'm Diego Alves</h1>
-<h3 align="center">A passionate backend developer from Brasil</h3>
-
-<img align="right" alt="Coding" width="400" src="https://media.tenor.com/TbTe1Nc6j34AAAAC/hacker-hackerman.gif">
 
 - 🔭 I’m currently working on [my barbershop system](https://github.com/diegohsalves/fullstack-barbearia)
 
