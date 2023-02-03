@@ -1,9 +1,9 @@
 
-Cinematographer who got in love with technology after perceiving it's potential on generating life's quality. 
+Cinematographer who become an web developer after get in love with technology and perceiving it's potential on generating life's quality. 
 
-My first contact on coding was at 2021, when I'd created my first RESTful API on Java/Spring Boot, trying to join in a formation program realized by a respectful company. Despite I'd completed my goal, unfortunatly I wasn't selected. But then on 2022 I'd got my opportunity to learning and after an year of applied studies, I'd expanded my understanding of the importance of a clean and uncoupled code and how to explore the inumerous frameworks available to support me. 
+My first contact on coding was at 2021, when I'd created my first RESTful API on Java/Spring Boot, trying to join in a formation program realized by a respectful company. Despite I'd completed my goal under 2 study's months, unfortunatly I wasn't selected. But then, on the second half of 2021, I'd got my opportunity to learning through  LAMIA and after an year and half of applied studies, I'd expanded my tecnical skills in the creation of a clean and uncoupled code, besides how to explore the inumerous frameworks available to support me. 
 
-At the moment, I'm looking for developing my career under supervision and encouragement of a company committed to innovation. 
+At the moment, I'm looking for developing my career under supervision and encouragement of a company committed to innovation, to support it's growth incessantly while building a legacy with it.
 
 ⚡
 
