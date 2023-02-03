@@ -5,7 +5,7 @@ My first contact on coding was at 2021, when I'd created my first RESTful API on
 
 At the moment, I'm looking for developing my career under supervision and encouragement of a company committed to innovation, to support it's growth incessantly while building a legacy with it.
 
-⚡
+
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
